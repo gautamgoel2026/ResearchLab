@@ -1,6 +1,4 @@
 # ResearchLab
 Multi-Agent Research Lab (AIDA)
-Members:
-Gautam
-Nina
-Pradyun
+
+Members: Gautam Goel, Nina Saravanan, Pradyun Nadipelly, Nicholas Rondon, Sarharsh Mam
